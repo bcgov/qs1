@@ -81,6 +81,8 @@ Create a new repository using this repository as a template.
 
 ![](./.github/graphics/template.png)
 
+* Ensure you choose a name for your repo that will not result in a package name collision. Existing package names for the bcgov org can be searched [here](https://github.com/orgs/bcgov/packages
+) 
 ## Secrets and Variables
 
 Variables and secrets are consumed by workflows.  Environments provide their own values, overriding default sets.

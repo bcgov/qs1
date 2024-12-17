@@ -19,7 +19,7 @@ export default function NotFound() {
       <Container maxWidth="md">
         <Grid>
           <Typography variant="h1">404</Typography>
-          <Typography variant="h6">
+          <Typography variant="h5">
             The page you’re looking for does not exist.
           </Typography>
           <Button
